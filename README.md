@@ -64,38 +64,38 @@ As a result of the changes to the Thomas High School 9th grade math and reading 
 #### Scores by Grade Charts
 ##### Math Scores by Grade
 ###### Math Scores Pre Thomas
-![math_grade_pre_thomas](https://github.com/stephenanayashilliard/School_District_Analysis/blob/main/Resources/math_by_grade_pre_thomas.png)
+![](Resources/math_by_grade_pre_thomas.png).
 ###### Math Scores Post Thomas
-![math_grade_post_thomas](https://github.com/stephenanayashilliard/School_District_Analysis/blob/main/Resources/math_by_grade_post_thomas.png)
+![](Resources/math_by_grade_post_thomas.png).
 ##### Reading Scores by Grade
 ###### Reading Scores Pre Thomas
-![reading_by_grade_pre_thomas](https://github.com/stephenanayashilliard/School_District_Analysis/blob/main/Resources/reading_by_grade_pre_thomas.png)
+![](Resources/reading_by_grade_pre_thomas.png).
 ###### Reading Scores Post Thomas
-![reading_by_grade_post_thomas](https://github.com/stephenanayashilliard/School_District_Analysis/blob/main/Resources/reading_by_grade_post_thomas.png)
+![](Resources/reading_by_grade_post_thomas.png).
 
 #### Scores by School Spending Charts
 ##### Scores pre Thomas
-![scores_by_school_spending_pre_thomas](https://github.com/stephenanayashilliard/School_District_Analysis/blob/main/Resources/scores_by_school_spending_pre_thomas.png)
+![](Resources/scores_by_school_spending_pre_thomas.png).
 ##### Scores post Thomas
-![scores_by_school_spending_post_thomas](https://github.com/stephenanayashilliard/School_District_Analysis/blob/main/Resources/scores_by_school_spending_post_thomas.png)
+![](Resources/scores_by_school_spending_post_thomas.png).
 
 #### Scores by School Size Charts
 ##### Scores pre Thomas
-![scores_by_school_size_pre_thomas](https://github.com/stephenanayashilliard/School_District_Analysis/blob/main/Resources/scores_by_school_size_pre_thomas.png)
+![](Resources/scores_by_school_size_pre_thomas.png).
 ##### Scores post Thomas
-![scores_by_school_size_post_thomas](https://github.com/stephenanayashilliard/School_District_Analysis/blob/main/Resources/scores_by_school_size_post_thomas.png)
+![](Resources/scores_by_school_size_post_thomas.png).
 
 #### Scores by School Type Charts
 ##### Scores pre Thomas
-![scores_by_school_type_pre_thomas](https://github.com/stephenanayashilliard/School_District_Analysis/blob/main/Resources/scores_by_school_type_pre_Thomas.png)
+![](Resources/scores_by_school_type_pre_Thomas.png).
 ##### Scores post Thomas
-![scores_by_school_type_post_thomas](https://github.com/stephenanayashilliard/School_District_Analysis/blob/main/Resources/scores_by_school_type_post_Thomas.png)
+![](Resources/scores_by_school_type_post_Thomas.png).
 
 #### Top 5 Schools by Performance
 ##### Top 5 Schools Pre Thomas
-![top_5_schools_pre_thomas](https://github.com/stephenanayashilliard/School_District_Analysis/blob/main/Resources/top_5_schools_pre_thomas.png)
+![](Resources/top_5_schools_pre_thomas.png).
 ##### Top 5 Schools Post Thomas
-![top_5_schools_post_thomas](https://github.com/stephenanayashilliard/School_District_Analysis/blob/main/Resources/top_5_schools_post_thomas.png)
+![](Resources/top_5_schools_post_thomas.png).
 
 ## Summary
 In summary, although there were multiple areas that were effected by removing the math and reading scores for Thomas High School.  There were 5 areas that showed drastic changes. 
