@@ -53,13 +53,13 @@ As a result of the changes to the Thomas High School 9th grade math and reading 
 ##### District Summary Pre Thomas
 ![](Resources/district_summary_pre_thomas.png).
 ##### District Summary Post Thomas
-![district_summary_Post_thomas](https://github.com/stephenanayashilliard/School_District_Analysis/blob/main/Resources/district_summary_post_thomas.png)
+![](Resources/district_summary_post_thomas.png).
 
 #### School Summary Charts
 ##### School Summary Pre Thomas
-![school_summary_pre_thomas](https://github.com/stephenanayashilliard/School_District_Analysis/blob/main/Resources/school_summary_pre_thomas.png)
+![](Resources/school_summary_pre_thomas.png).
 ##### School Summary Post Thomas
-![school_summary_post_thomas](https://github.com/stephenanayashilliard/School_District_Analysis/blob/main/Resources/school_summary_post_thomas.png)
+![](Resources/school_summary_post_thomas.png).
 
 #### Scores by Grade Charts
 ##### Math Scores by Grade
